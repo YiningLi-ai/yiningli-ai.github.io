@@ -8,7 +8,7 @@ profile:
   align: right
   image: yiningli.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: > liyining@stu.xjtu.edu.cn
 
 
 news: true # includes a list of news items
