@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Introduction to  transformer(The 4th Deep Learning Seminar at Lizhi Academy,XJTU)
+title: Introduction to Transformer
 date: 2024-11-17 00:01:00
-description: 
+description: The 4th Deep Learning Seminar at Lizhi Academy,XJTU
 tags: Transformer DL 
 categories: Seminar
 pseudocode: 
