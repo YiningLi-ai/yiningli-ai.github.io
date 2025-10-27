@@ -9,7 +9,7 @@ profile:
   image: yiningli.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-   <p> liyining@stu.xjtu.edu.cn</p>
+   <p> li-yn25 AT mails.tsinghua.edu.cn</p>
  
 
 news: true # includes a list of news items
