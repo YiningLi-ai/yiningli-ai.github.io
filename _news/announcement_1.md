@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 🎉Our work [Variational Zero-shot Multispectral Pansharpening](https://arxiv.org/pdf/2407.06633) got accepted by TGRS!🥳🥳
+🎉 🎉Our work [Variational Zero-shot Multispectral Pansharpening](https://arxiv.org/pdf/2407.06633) got accepted by TGRS!
