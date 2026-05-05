@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work [Linearizing Vision Transformer with Test-Time Training](https://arxiv.org/abs/2605.02772v1) got accepted by ICML 2026!
+🎉 🎉Our work [Linearizing Vision Transformer with Test-Time Training](https://arxiv.org/abs/2605.02772v1) got accepted by ICML 2026! 🥳🥳
