@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: yiningli2026.jpg
+  image: yiningli2026.JPG
   image_circular: false # crops the image to make it circular
   more_info: > 
    <p> li-yn25 AT mails.tsinghua.edu.cn</p>
